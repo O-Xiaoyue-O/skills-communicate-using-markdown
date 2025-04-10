@@ -14,3 +14,7 @@ var myVar = "Hello, world!";
 ``` python
 print("hello markdown")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
